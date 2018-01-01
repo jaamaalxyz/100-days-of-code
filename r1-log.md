@@ -1,10 +1,14 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Jamal Uddin
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 01, Monday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Started CS50 from [edx.org](https://www.edx.org/) and solve two programming problem from [CodeFight](https://codefights.com/).
+The CodeFight Problems are very Introductory Level JavaScript(ES6) Problem.
+
+####[commonCharacterCount](https://codefights.com/arcade/intro/level-3/JKKuHJknZNj4YGL32)
+####[isLucky](https://codefights.com/arcade/intro/level-3/3AdBC97QNuhF6RwsQ)
 
 ### R1D2
