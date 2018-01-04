@@ -17,3 +17,6 @@ Today my progress is not too much. Only watched some CS50 video and try to code 
 
 ### R1D3 - January 03, 2018
 Today my progress is very bad only one+ hours I coded. Solve one CodeFights task and finish CS50 week 0.
+
+### R1D4 - January 04, 2018
+Today my progress only one+ hours of code. Solve two CodeFights task.
