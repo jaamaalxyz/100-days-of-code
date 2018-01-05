@@ -20,3 +20,6 @@ Today my progress is very bad only one+ hours I coded. Solve one CodeFights task
 
 ### R1D4 - January 04, 2018
 Today my progress only one+ hours of code. Solve two CodeFights task.
+
+### R1D5 - January 05, 2018
+Today I watched traversy media's video tutorials and practice some piece of code it maybe 2+ hours. here's my project: [Split Landing Page](https://codepen.io/jamal-pb95/full/LezKqz/)
