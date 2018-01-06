@@ -23,3 +23,6 @@ Today my progress only one+ hours of code. Solve two CodeFights task.
 
 ### R1D5 - January 05, 2018
 Today I watched traversy media's video tutorials and practice some piece of code it maybe 2+ hours. here's my project: [Split Landing Page](https://codepen.io/jamal-pb95/full/LezKqz/)
+
+### R1D6 - January 06, 2018
+Today working with cs50 week 1 and it's need two more days maybe.
