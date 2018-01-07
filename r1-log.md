@@ -26,3 +26,6 @@ Today I watched traversy media's video tutorials and practice some piece of code
 
 ### R1D6 - January 06, 2018
 Today working with cs50 week 1 and it's need two more days maybe.
+
+### R1D7 - January 07, 2018
+My official work load become more and more every day. I can't concentrait my target/goal. Today I tried so many time to solve mario problem from cs50 week 1. but i cant solve yet.
