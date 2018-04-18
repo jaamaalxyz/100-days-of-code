@@ -23,3 +23,15 @@ today I have completed few things below:
 3. Learn some blog post @Medium 
 
 #100DaysOfCode #codecademy #W3schools #css3 #CLI
+
+
+### R1D3 - April 18, 2018
+This is my third day on #100DaysOfCode Challenge and Alhamdulillah today I reach my daily goal. only one thing left but next day I will cover it.
+
+today I have completed few things below:
+1. 40% Completed self-thought FE guide [repo](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
+2. Completed CSS3: week-1 from [Coursera](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
+3. Practice CSS3 from [W3Schools tutorials](https://www.w3schools.com/css/)
+4. 60% Completed Applied Visual Design Challenges from [freeCodeCamp](https://beta.freecodecamp.org/)
+
+#100DaysOfCode #Coursera #W3Schools #freeCodeCamp #CSS3 #openSource
