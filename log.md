@@ -55,7 +55,7 @@ completed Intro to CSS3 from coursera and final project is [here](https://codepe
 
 1. Day Start with Faz'r Salat
 2. Read Quran and a Islamic Book
-3. Completed "Make A Website" course from codecademy and final project is [here](https://goo.gl/xZcvoX)
+3. Completed "Make A Website" course from codecademy and final project is [here](https://codepen.io/jamal-pb95/full/PePMam/)
 4. Listen codenewbie podcast episode - 170: [How to learn to code when you have no time and money](https://www.codenewbie.org/podcast/how-to-learn-to-code-when-you-have-no-time-and-money) with [Colleen Schnettler](https://twitter.com/leenyburger)
 5. Learn CSS Variables
 
