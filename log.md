@@ -47,7 +47,7 @@ read some blog post and finished intro to CSS3: Week two from coursera. I am not
 #100DaysOfCode #CSS3 #Coursera
 
 ### R1D7 - April 22, 2018
-completed Intro to CSS3 from coursera and final project is [here](https://goo.gl/TL5x59) not responsive yet. but gain some practical experience.
+completed Intro to CSS3 from coursera and final project is [here](https://codepen.io/jamal-pb95/project/full/ZprBjj/) not responsive yet. but gain some practical experience.
 
 #100DaysOfCode #CSS3
 
