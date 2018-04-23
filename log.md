@@ -35,3 +35,29 @@ today I have completed few things below:
 4. 60% Completed Applied Visual Design Challenges from [freeCodeCamp](https://beta.freecodecamp.org/)
 
 #100DaysOfCode #Coursera #W3Schools #freeCodeCamp #CSS3 #openSource
+
+### R1D4 - April 19, 2018 & R1D5: 
+Yesterday I was not share my R1D4 due to some hardware problem. last two days I learnt #CSS3 and practice a lot. keep me in your prayers for my bright future. thank you all.
+
+#100DaysOfCode #coursera #w3schools #CSS3 #freeCodeCamp
+
+### R1D6 - April 21, 2018
+read some blog post and finished intro to CSS3: Week two from coursera. I am not happy for my today's progress. but finally good night. see you tomorrow with some great work.
+
+#100DaysOfCode #CSS3 #Coursera
+
+### R1D7 - April 22, 2018
+completed Intro to CSS3 from coursera and final project is [here](https://goo.gl/TL5x59) not responsive yet. but gain some practical experience.
+
+#100DaysOfCode #CSS3
+
+### R1D8 - April 23, 2018
+
+1. Day Start with Faz'r Salat
+2. Read Quran and a Islamic Book
+3. Completed "Make A Website" course from codecademy and final project is [here](https://goo.gl/xZcvoX)
+4. Listen codenewbie podcast episode - 170: [How to learn to code when you have no time and money](https://www.codenewbie.org/podcast/how-to-learn-to-code-when-you-have-no-time-and-money) with [Colleen Schnettler](https://twitter.com/leenyburger)
+5. Learn CSS Variables
+
+#100DaysOfCode #CSS3 #Codecademy #Webdev #freeCodeCamp #codenewbie
+
