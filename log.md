@@ -88,15 +88,15 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
   1. Read Quran & a Islamic Book: Subhe Sadik - Chapter - 3
   2. Learn CSS Flexbox from [flexbox.io by Wes Bos](https://flexbox.io/)
   2. Learn CSS Flexbox & Practice
-    - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-    - [Learn Flexbox for free](https://scrimba.com/g/gflexbox)
-    - Practices:
-      - [CSS3: Flexbox - 101:1](https://codepen.io/jamal-pb95/pen/yjJyEz)
-      - [CSS3: Flexbox - 101:2](https://codepen.io/jamal-pb95/pen/OZXPdX)
-      - [CSS3: Flexbox - 101:3](https://codepen.io/jamal-pb95/pen/BxzNrm)
-      - [Catty Music Player](https://codepen.io/jamal-pb95/pen/odxYeL)
-      - [Flexbox Fun](https://codepen.io/jamal-pb95/pen/NMNRLg)
-      - [Flexbox 101](https://codepen.io/jamal-pb95/pen/OZNJZe)
-      - [Keeping footer at bottom using CSS-Flexbox](https://codepen.io/jamal-pb95/pen/zWGGxb)
-      - [Flexbox App Layout](https://codepen.io/jamal-pb95/pen/yogbVN)
+     - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+     - [Learn Flexbox for free](https://scrimba.com/g/gflexbox)
+     - Practices:
+       - [CSS3: Flexbox - 101:1](https://codepen.io/jamal-pb95/pen/yjJyEz)
+       - [CSS3: Flexbox - 101:2](https://codepen.io/jamal-pb95/pen/OZXPdX)
+       - [CSS3: Flexbox - 101:3](https://codepen.io/jamal-pb95/pen/BxzNrm)
+       - [Catty Music Player](https://codepen.io/jamal-pb95/pen/odxYeL)
+       - [Flexbox Fun](https://codepen.io/jamal-pb95/pen/NMNRLg)
+       - [Flexbox 101](https://codepen.io/jamal-pb95/pen/OZNJZe)
+       - [Keeping footer at bottom using CSS-Flexbox](https://codepen.io/jamal-pb95/pen/zWGGxb)
+       - [Flexbox App Layout](https://codepen.io/jamal-pb95/pen/yogbVN)
       
