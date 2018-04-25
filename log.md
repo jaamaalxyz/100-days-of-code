@@ -64,20 +64,39 @@ completed Intro to CSS3 from coursera and final project is [here](https://codepe
 
 ### R1D9 - April 24, 2018
 
-1. Read Quran and Islamic book
-2. Learn CSS3 FLexbox from [Wes Bos](https://flexbox.io/)
-3. Learn CSS3 Flexbox related articles
-   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-   - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
-   - [Understanding Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
-   - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
-   - [Learn Flexbox for free](https://scrimba.com/g/gflexbox)
-   - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
-   - [Keeping the footer at the bottom with CSS Flexbox](https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f)
+  1. Read Quran and Islamic book
+  2. Learn CSS3 Flexbox related articles
+    - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+    - [Understanding Flexbox: Everything you need to know](https://www.educative.io/collection/5191711974227968/5741031244955648)
+    - [FLEXBOX FROGGY](http://flexboxfroggy.com/)
+    - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
+    - [Keeping the footer at the bottom with CSS Flexbox](https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f)
   
-4. Codenewbie Podcast-168: [How does the internet work?](https://www.codenewbie.org/podcast/how-does-the-internet-work)
-5. Practice, Practice & Practice with freeCodeCamp: CSS3 Flexbox
+ 3. Codenewbie Podcast-168: [How does the internet work?](https://www.codenewbie.org/podcast/how-does-the-internet-work)
+ 4. Practice, Practice & Practice with freeCodeCamp: CSS3 Flexbox
 
 #100DaysOfCode #Codenewbie #Webdev
 #freeCodeCamp #CSS3
 
+
+### R1D10 - April 25, 2018
+
+Alhamdulillah! This is my 10th Day and I'm really very curious about me and fallen love to #100DaysOfCode challege. This challenge is very very interesting and pretty practical. feels like just awesome. thank you [@kallaway](https://github.com/kallaway) for creating [this type](https://github.com/kallaway/100-days-of-code) of awesome challenge.
+
+Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
+  1. Read Quran & a Islamic Book: Subhe Sadik - Chapter - 3
+  2. Learn CSS Flexbox from [flexbox.io by Wes Bos](https://flexbox.io/)
+  2. Learn CSS Flexbox & Practice
+    - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    - [Learn Flexbox for free](https://scrimba.com/g/gflexbox)
+    - Practices:
+      - [CSS3: Flexbox - 101:1](https://codepen.io/jamal-pb95/pen/yjJyEz)
+      - [CSS3: Flexbox - 101:2](https://codepen.io/jamal-pb95/pen/OZXPdX)
+      - [CSS3: Flexbox - 101:3](https://codepen.io/jamal-pb95/pen/BxzNrm)
+      - [Catty Music Player](https://codepen.io/jamal-pb95/pen/odxYeL)
+      - [Flexbox Fun](https://codepen.io/jamal-pb95/pen/NMNRLg)
+      - [Flexbox 101](https://codepen.io/jamal-pb95/pen/OZNJZe)
+      - [Keeping footer at bottom using CSS-Flexbox](https://codepen.io/jamal-pb95/pen/zWGGxb)
+      - [Flexbox App Layout](https://codepen.io/jamal-pb95/pen/yogbVN)
+      
