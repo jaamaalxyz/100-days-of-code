@@ -100,3 +100,15 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
        - [Keeping footer at bottom using CSS-Flexbox](https://codepen.io/jamal-pb95/pen/zWGGxb)
        - [Flexbox App Layout](https://codepen.io/jamal-pb95/pen/yogbVN)
       
+      
+### R1D11 - April 26, 2018
+
+ Today also learning & practicing some flexbox stuff and start learning CSS3 GRID:
+   
+   1. Read Quran & a Islamic Book
+   2. Watched CSS Flexbox Videos & Practice from Wes Bos [flexbox.io](https://flexbox.io/)
+   3. Finished [CSS GRID GARDEN GAME](https://cssgridgarden.com/)
+   4. Finished CSS Grid Challenges from  freeCodeCamp beta.
+   5. Finished [learncssgrid.com](https://learncssgrid.com/)
+
+#100DaysOfCode #Codenewbie #Webdev #CSS3 #flexbox #grid #wesbos
