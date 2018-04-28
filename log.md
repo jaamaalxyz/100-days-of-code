@@ -112,3 +112,11 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
    5. Finished [learncssgrid.com](https://learncssgrid.com/)
 
 #100DaysOfCode #Codenewbie #Webdev #CSS3 #flexbox #grid #wesbos
+
+
+### R1D12 - April 27, 2018
+
+ Today also learning & practicing some flexbox stuffs and CSS3 GRID: Watched CSS Flexbox Videos & Practice from Wes Bos [flexbox.io](https://flexbox.io/) flexbox course.
+   
+
+#100DaysOfCode #Codenewbie #Webdev #CSS3 #flexbox #grid #wesbos
