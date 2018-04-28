@@ -120,3 +120,17 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
    
 
 #100DaysOfCode #Codenewbie #Webdev #CSS3 #flexbox #grid #wesbos
+
+
+### R1D13 - April 28, 2018
+
+ Today also learning & practicing some flexbox stuffs and CSS3 GRID: Watched CSS Flexbox Videos & Practice from Wes Bos [flexbox.io](https://flexbox.io/) flexbox course.
+ 
+   - Practice, Practice & Practice:
+      - [One Page Intro by General assembly](https://dash.generalassemb.ly/jamal.pb95/build-your-own-personal-website) and [codepen](https://codepen.io/jamal-pb95/full/zjoXWN/)
+      - [Mobile first navbar using flexbox](https://codepen.io/jamal-pb95/full/PebJgb/)
+      - [Practice with freeCodeCamp beta Web Accessibility challeges](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/add-a-text-alternative-to-images-for-visually-impaired-accessibility)
+      - []()
+   
+
+#100DaysOfCode #Codenewbie #Webdev #CSS3 #flexbox #grid #wesbos
