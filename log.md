@@ -138,6 +138,6 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
 
 ### R1D13 - April 29, 2018
 
-  Today I am rebuild @freeCodeCamp tribute page projects: https://codepen.io/jamal-pb95/full/jmvvpz/
+  Today I am rebuild @freeCodeCamp tribute page projects: [freeCodeCamp Projetc-1: Build A Tribute Page](https://codepen.io/jamal-pb95/full/jmvvpz/)
 
 #100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
