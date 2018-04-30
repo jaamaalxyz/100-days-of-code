@@ -136,8 +136,17 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
 #100DaysOfCode #Codenewbie #Webdev #CSS3 #flexbox #grid #wesbos
 
 
-### R1D13 - April 29, 2018
+### R1D14 - April 29, 2018
 
   Today I am rebuild @freeCodeCamp tribute page projects: [freeCodeCamp Projetc-1: Build A Tribute Page](https://codepen.io/jamal-pb95/full/jmvvpz/)
+
+#100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
+
+
+### R1D15 - April 30, 2018
+
+  Today my progress is:
+     - Rebuild @freeCodeCamp survey form projects: [freeCodeCamp Projetc 2: Build a Survey Form](https://codepen.io/jamal-pb95/full/RVywLR/)
+     - Learned and build [PROJECT 2: BUILD A RESPONSIVE BLOG THEME](https://codepen.io/jamal-pb95/pen/wjgZKX)
 
 #100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
