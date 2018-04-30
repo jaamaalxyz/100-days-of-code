@@ -147,6 +147,6 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
 
   Today my progress is:
   1. Rebuild [freeCodeCamp Projetc 2: Build a Survey Form](https://codepen.io/jamal-pb95/full/RVywLR/)
-  2. Learned and build [PROJECT 2: BUILD A RESPONSIVE BLOG THEME](https://codepen.io/jamal-pb95/pen/wjgZKX)
+  2. Learned and build [PROJECT 2: BUILD A RESPONSIVE BLOG THEME](https://codepen.io/jamal-pb95/full/wjgZKX/)
 
 #100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
