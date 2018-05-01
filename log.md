@@ -150,3 +150,13 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
   2. Learned and build [PROJECT 2: BUILD A RESPONSIVE BLOG THEME](https://codepen.io/jamal-pb95/full/wjgZKX/)
 
 #100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
+
+
+### R1D16 - May 01, 2018
+
+Today my progress is:
+  1. started JavaScript30 course form @Wesbos and first day exercise is [here](https://day1-javascript30--jamaluddin.repl.co/).
+  2. Learned and build [PROJECT Optional: BUILD A TUMBLER BLOG THEME]()
+
+#100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
+
