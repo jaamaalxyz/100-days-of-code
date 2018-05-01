@@ -156,7 +156,7 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
 
 Today my progress is:
   1. start learning [JavaScript30](https://javascript30.com/) course form [@Wesbos](https://wesbos.com/) and first day exercise is [here](https://day1-javascript30--jamaluddin.repl.co/).
-  2. Learned and build [PROJECT Optional: BUILD A TUMBLER BLOG THEME]()
+  2. Learned and build [PROJECT Optional: BUILD A TUMBLER BLOG THEME](http:)
 
 #100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
 
