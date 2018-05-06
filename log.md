@@ -155,8 +155,26 @@ Today I've leanrt about CSS3: Flexbox &amp; Grid and see details below:
 ### R1D16 - May 01, 2018
 
 Today my progress is:
-  1. start learning [JavaScript30](https://javascript30.com/) course form [@Wesbos](https://wesbos.com/) and first day exercise is [here](https://day1-javascript30--jamaluddin.repl.co/).
+  1. start learning [JavaScript30](https://javascript30.com/) course by [@Wesbos](https://wesbos.com/) and first day exercise is [here](https://day1-javascript30--jamaluddin.repl.co/).
   2. Learned and build [PROJECT Optional: BUILD A TUMBLER BLOG THEME](http:)
 
 #100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
 
+### R1D17 - May 02, 2018
+
+Today my progress is:
+  1. watched second lecture from [JavaScript30](https://javascript30.com/) course by [@Wesbos](https://wesbos.com/)
+
+#100DaysCode #HTML5 #CSS3 #webdev #CodeNewbie #freeCodeCamp
+
+### R1D18 - May 03, 2018
+
+Fakibazi
+
+### R1D19 - May 04, 2018
+
+Doing something from [general assembly dash 3rd project](https://dash.generalassemb.ly/) and completed some [freeCodeCamp challenges](https://www.freecodecamp.org/).
+
+### R1D20 - May 05 and 06, 2018
+
+Today my progress is: working with my [portfolio page](http://jamal-pb95.github.io/).
