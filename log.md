@@ -178,3 +178,11 @@ Doing something from [general assembly dash 3rd project](https://dash.generalass
 ### R1D20 - May 05 and 06, 2018
 
 Today my progress is: working with my [portfolio page](http://jamal-pb95.github.io/).
+
+### R1D21 - May 07, 2018
+
+   1. Today also working with my [portfolio page](http://jamal-pb95.github.io/).
+   2. Reading [Bootstrap Official Documentation](https://getbootstrap.com/docs/4.1/getting-started)
+   3. Completed some challenges from [freeCodeCamp Beta](http://beta.freecodecamp.org/)
+   
+
