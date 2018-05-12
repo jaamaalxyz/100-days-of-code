@@ -186,3 +186,7 @@ Today my progress is: working with my [portfolio page](http://jamal-pb95.github.
    3. Completed some challenges from [freeCodeCamp Beta](http://beta.freecodecamp.org/)
    
 #100DaysCode #HTML5 #CSS3 #Bootstrap #webdev #CodeNewbie #freeCodeCamp
+
+### R1D22, 23, 24, 25, 26 - May (08,09, 10, 11, 12), 2018
+
+Last 5 days in a row I try to redesign and developed my [portfolio website](https://jamal-pb95.github.io/). this time I was build whole codebase at least three times for my own satisfication. because when I was finalize. then think again maybe it's not ok. I can make it better than it. finally my [portfolio looks like this type](https://jamal-pb95.github.io/). I know so many ways have to improve now and then. after all this the version 2.0. I will update time to time with update technologies.
