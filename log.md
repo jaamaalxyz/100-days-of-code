@@ -190,3 +190,8 @@ Today my progress is: working with my [portfolio page](http://jamal-pb95.github.
 ### R1D22, 23, 24, 25, 26 - May (08,09, 10, 11, 12), 2018
 
 Last 5 days in a row I try to redesign and developed my [portfolio website](https://jamal-pb95.github.io/). this time I was build whole codebase at least three times for my own satisfication. because when I was finalize. then think again maybe it's not ok. I can make it better than it. finally my [portfolio looks like this type](https://jamal-pb95.github.io/). I know so many ways have to improve now and then. after all this the version 2.0. I will update time to time with update technologies.
+
+
+### R1D30 - May 16, 2018
+
+Today I have completed 1 month of coding. its going very fast and I learned so many topics and used HTML5, CSS3, JavaScript, jQuery and Bootstrap to build some good stuff. I also used git, github, sublimeText, VSCode and Codepen. lots of stuff have to learn and I will be complete my journey in time. Insallah.
