@@ -195,3 +195,11 @@ Last 5 days in a row I try to redesign and developed my [portfolio website](http
 ### R1D30 - May 16, 2018
 
 Today I have completed 1 month of coding. its going very fast and I learned so many topics and used HTML5, CSS3, JavaScript, jQuery and Bootstrap to build some good stuff. I also used git, github, sublimeText, VSCode and Codepen. lots of stuff have to learn and I will be complete my journey in time. Insallah.
+
+### R1D31 - May 17, 2018
+
+Today I have completed some JavaScript challenges from @freeCodeCamp and completed Responsive Design first segment from @udacity
+
+### R1D32 - May 18, 2018
+
+Today I have completly redesigned my "Random Quote Machine" project.
