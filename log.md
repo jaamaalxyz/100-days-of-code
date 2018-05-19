@@ -202,4 +202,4 @@ Today I have completed some JavaScript challenges from @freeCodeCamp and complet
 
 ### R1D32 - May 18, 2018
 
-Today I have completly redesigned my "Random Quote Machine" project.
+Today I have completely redesigned my "Random Quote Machine" project.
