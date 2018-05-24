@@ -210,3 +210,14 @@ Today ongoing @Udacity "Responsive Web Design" course. ongoing third chapter als
 
 ## R1D36 - May 22, 2018
 Today I have learn some JS and jQuery stuff also ongoing @Udacity RWD course.
+
+## R1D37 - May 23, 2018
+Today I have completed below things:
+1. [Update tribute page repo](https://github.com/jamal-pb95/tribute-page) and [Live here](https://jamal-pb95.github.io/tribute-page/)
+2. [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
+
+## R1D38 - May 24, 2018
+Today I have completed below things:
+1. [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+2. [Web Programming with JavaScript: Week-1](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+3. [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
