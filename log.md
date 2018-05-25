@@ -223,7 +223,7 @@ Today I have completed below things:
 3. [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
 
 ## R1D39 - May 25, 2018
-✅ #100DaysOfCode 
-✔️ Completed Section 4 from @udacity "RWD"
-✔️ Working on Week-2: Web Programming with #javascript from @edXOnline 
-✔️ Exploring Unicode Character from #UnicodeTable
+- ✅ #100DaysOfCode 
+- ✔️ Completed Section 4 from @udacity "RWD"
+- ✔️ Working on Week-2: Web Programming with #javascript from @edXOnline 
+- ✔️ Exploring Unicode Character from #UnicodeTable
