@@ -229,6 +229,6 @@ Today I have completed below things:
 
 ## R1D40 - May 26, 2018 ✅ #100DaysOfCode 
 - ✔️ Completed [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) full course.
-- ✔️ Completed Week-2: [Edx: Programming for the Web with Javascript](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-- ✔️ Week-2 homework is [here]()
+- ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+- ✔️ Completed second section from [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 - ✔️ Learned [JavaScript Call Stack from Colt Steel](https://www.youtube.com/watch?v=W8AeMrVtFLY)
