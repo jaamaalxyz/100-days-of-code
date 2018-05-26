@@ -222,8 +222,13 @@ Today I have completed below things:
 2. [Web Programming with JavaScript: Week-1](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 3. [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
 
-## R1D39 - May 25, 2018
-- ✅ #100DaysOfCode 
-- ✔️ Completed Section 4 from @udacity "RWD"
-- ✔️ Working on Week-2: Web Programming with #javascript from @edXOnline 
+## R1D39 - May 25, 2018 ✅ #100DaysOfCode 
+- ✔️ Completed section 4 from [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893).
+- ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - ✔️ Exploring Unicode Character from #UnicodeTable
+
+## R1D40 - May 26, 2018 ✅ #100DaysOfCode 
+- ✔️ Completed [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) full course.
+- ✔️ Completed Week-2: [Edx: Programming for the Web with Javascript](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+- ✔️ Week-2 homework is [here]()
+- ✔️ Learned [JavaScript Call Stack from Colt Steel](https://www.youtube.com/watch?v=W8AeMrVtFLY)
