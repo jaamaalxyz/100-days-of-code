@@ -218,9 +218,10 @@ Today I have completed below things:
 
 ## R1D38 - May 24, 2018
 Today I have completed below things:
-1. [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
-2. [Web Programming with JavaScript: Week-1](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
-3. [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
+- ✔ [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+- ✔ [Web Programming with JavaScript: Week-1](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- ✔ Homework-1 solution is [here](https://github.com/jamal-pb95/SD4x/blob/master/homework-1/)
+- ✔ [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
 
 ## R1D39 - May 25, 2018 ✅ #100DaysOfCode 
 - ✔️ Completed section 4 from [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893).
@@ -240,6 +241,7 @@ Today I have completed below things:
       - A recursive function is a function that invokes itself
       - A recursive function should always have a base case and invoked with different input each time.
 
-- ✔️ Completed homework-2 on[ SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
-- ✔️ Homework is [here]()
+- ✔️ Completed homework-2 on [SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- ✔️ Homework-2 solution is [here](https://github.com/jamal-pb95/SD4x/blob/master/homework-2/)
+- ✔️ Completed third section from [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 
