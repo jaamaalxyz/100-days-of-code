@@ -241,5 +241,5 @@ Today I have completed below things:
       - A recursive function should always have a base case and invoked with different input each time.
 
 - ✔️ Completed homework-2 on[ SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
-- ✔ homework is [here]()
+- ✔️ Homework is [here]()
 
