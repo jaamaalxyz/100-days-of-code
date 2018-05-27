@@ -224,17 +224,22 @@ Today I have completed below things:
 
 ## R1D39 - May 25, 2018 ✅ #100DaysOfCode 
 - ✔️ Completed section 4 from [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893).
-- ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+- ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔️ Exploring Unicode Character from #UnicodeTable
 
 ## R1D40 - May 26, 2018 ✅ #100DaysOfCode 
 - ✔️ Completed [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) full course.
-- ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+- ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔️ Completed second section from [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 - ✔️ Learned [JavaScript Call Stack from Colt Steel](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 
 ## R1D41 - May 27, 2018 ✅ #100DaysOfCode 
 - ✔️ Learned [JavaScript Recursion from Colt Steel](https://www.youtube.com/watch?v=lMBVwYrmFZQ)
-    - Recursion:
-    1. A recursive function is a function that invokes itself
-    2. A recursive function should always have a base case and invoked with different input each time.
+
+  #### Recursion:
+      - A recursive function is a function that invokes itself
+      - A recursive function should always have a base case and invoked with different input each time.
+
+- ✔️ Completed homework-2 on[ SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- ✔ homework is [here]()
+
