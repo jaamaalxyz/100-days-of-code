@@ -232,3 +232,9 @@ Today I have completed below things:
 - ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - ✔️ Completed second section from [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 - ✔️ Learned [JavaScript Call Stack from Colt Steel](https://www.youtube.com/watch?v=W8AeMrVtFLY)
+
+## R1D41 - May 27, 2018 ✅ #100DaysOfCode 
+- ✔️ Learned [JavaScript Recursion from Colt Steel](https://www.youtube.com/watch?v=lMBVwYrmFZQ)
+    - Recursion:
+    1. A recursive function is a function that invokes itself
+    2. A recursive function should always have a base case and invoked with different input each time.
