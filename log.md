@@ -231,7 +231,7 @@ Today I have completed below things:
 ## R1D40 - May 26, 2018 ✅ #100DaysOfCode 
 - ✔️ Completed [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) full course.
 - ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
-- ✔️ Completed second section from [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
+- ✔️ Completed second section from [Linux (Ubuntu) CLI course]](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 - ✔️ Learned [JavaScript Call Stack from Colt Steel](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 
 ## R1D41 - May 27, 2018 ✅ #100DaysOfCode 
@@ -243,5 +243,9 @@ Today I have completed below things:
 
 - ✔️ Completed homework-2 on [SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔️ Homework-2 solution is [here](https://github.com/jamal-pb95/SD4x/blob/master/homework-2/)
-- ✔️ Completed third section from [Linux(Ubuntu) CLI from Codeio.com](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
+- ✔️ Completed third section from [Linux (Ubuntu) CLI course]](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 
+## R1D42 - May 28, 2018 ✅ #100DaysOfCode 
+- ✔️ Ongoing fourth section from [Linux (Ubuntu) CLI course](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
+- ✔️ Completed homework-3 on [SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- ✔️ Learned about jQuery and JavaScript DOM
