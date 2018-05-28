@@ -249,3 +249,5 @@ Today I have completed below things:
 - ✔️ Ongoing fourth section from [Linux (Ubuntu) CLI course](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 - ✔️ Completed homework-3 on [SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔️ Learned about jQuery and JavaScript DOM
+- ✔️ Learned about JavaScript global `localStorage`
+- ✔️ Learned about JSON and how to parse data by using JSON.
