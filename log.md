@@ -206,31 +206,31 @@ Today ongoing @Udacity "Responsive Web Design" course. completed first chapter a
 Today ongoing @Udacity "Responsive Web Design" course. completed second chapter also learning JS stuff from various platforms.
 
 ## R1D35 - May 21, 2018
-Today ongoing @Udacity "Responsive Web Design" course. ongoing third chapter also learning JS stuff from various platforms.
+<img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started"> Today ongoing @Udacity "Responsive Web Design" course. ongoing third chapter also learning JS stuff from various platforms.
 
 ## R1D36 - May 22, 2018
-Today I have learn some JS and jQuery stuff also ongoing @Udacity RWD course.
+<img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started"> Today I have learn some JS and jQuery stuff also ongoing @Udacity RWD course.
 
 ## R1D37 - May 23, 2018
 Today I have completed below things:
-1. [Update tribute page repo](https://github.com/jamal-pb95/tribute-page) and [Live here](https://jamal-pb95.github.io/tribute-page/)
-2. [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
+- [x] [Update tribute page repo](https://github.com/jamal-pb95/tribute-page) and [Live here](https://jamal-pb95.github.io/tribute-page/)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started"> [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
 
 ## R1D38 - May 24, 2018
 Today I have completed below things:
 - ✔ [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 - ✔ [Web Programming with JavaScript: Week-1](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔ Homework-1 solution is [here](https://github.com/jamal-pb95/SD4x/blob/master/homework-1/)
-- ✔ [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started"> [Working with my Front End Guide](https://github.com/jamal-pb95/Learning-Path-and-Resources-2018)
 
 ## R1D39 - May 25, 2018 ✅ #100DaysOfCode 
 - ✔️ Completed section 4 from [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893).
-- ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started">️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔️ Exploring Unicode Character from #UnicodeTable
 
 ## R1D40 - May 26, 2018 ✅ #100DaysOfCode 
 - ✔️ Completed [Udacity: Responsive Design Fundamental](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) full course.
-- ✔️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started">️ Working on Week-2: [Edx: Programming for the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔️ Completed second section from [Linux (Ubuntu) CLI course]](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 - ✔️ Learned [JavaScript Call Stack from Colt Steel](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 
@@ -246,8 +246,8 @@ Today I have completed below things:
 - ✔️ Completed third section from [Linux (Ubuntu) CLI course]](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
 
 ## R1D42 - May 28, 2018 ✅ #100DaysOfCode 
-- ✔️ Ongoing fourth section from [Linux (Ubuntu) CLI course](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
-- ✔️ Ongoing Week-2 on [SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started">️ Ongoing fourth section from [Linux (Ubuntu) CLI course](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started">️ Ongoing Week-2 on [SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔️ JavaScript DOM
 - ✔️ Learned about JavaScript global `localStorage`
 - ✔️ Learned about JSON and how to parse data by using JSON.
@@ -261,10 +261,10 @@ Today I have completed below things:
 
 ## R1D44 - May 30, 2018 ✅ #100DaysOfCode
 - ✔️ Build an [E-Commerce Single Item UI](https://codepen.io/jamal-pb95/full/ZREZbL/)
-- ✔️ Started building [Color Guessing Game](https://codepen.io/jamal-pb95/full/KRYxEO/) from [Colt Steel's: The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Started building [Color Guessing Game](https://codepen.io/jamal-pb95/full/KRYxEO/) from [Colt Steel's: The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
 - ✔️ Learning and doing a little bit about Adobe Illustrator and working with fun. Now I am using portable version.
 - ✔️ Trying to make some good skills image for my portfolio page.
 
 ## R1D45 - May 31, 2018 ✅ #100DaysOfCode
-- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/man-climbing_1f9d7-200d-2642-fe0f.png" width="20px" height="20px" alt="getting started"> Getting started new [freeCodeCamp](https://learn.freecodecamp.org/) environment
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Getting started new [freeCodeCamp](https://learn.freecodecamp.org/) environment
 - ✔️ 
