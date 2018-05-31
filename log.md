@@ -252,3 +252,19 @@ Today I have completed below things:
 - ✔️ Learned about JavaScript global `localStorage`
 - ✔️ Learned about JSON and how to parse data by using JSON.
 - ✔️ Udacity Front End Development Nanodegree Project-1: [Animal Trading Card](https://codepen.io/jamal-pb95/full/QxLbjx/)
+
+## R1D43 - May 29, 2018 ✅ #100DaysOfCode 
+- ✔️ Learned JavaScript DOM
+- ✔️ Build a [Simple Login UI](https://codepen.io/jamal-pb95/full/pKzMNe/)
+- ✔️ Completed [Score Keeper Game](https://codepen.io/jamal-pb95/full/vrYOBN/) from [Colt Steel's: The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+- ✔️ Read some blog posts from [Medium](medium.com) and [The Practical Dev](dev.to)
+
+## R1D44 - May 30, 2018 ✅ #100DaysOfCode
+- ✔️ Build an [E-Commerce Single Item UI](https://codepen.io/jamal-pb95/full/ZREZbL/)
+- ✔️ Started building [Color Guessing Game](https://codepen.io/jamal-pb95/full/KRYxEO/) from [Colt Steel's: The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+- ✔️ Learning and doing a little bit about Adobe Illustrator and working with fun. Now I am using portable version.
+- ✔️ Trying to make some good skills image for my portfolio page.
+
+## R1D45 - May 31, 2018 ✅ #100DaysOfCode
+- ![alt text](https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/man-climbing_1f9d7-200d-2642-fe0f.png 'getting started') Getting started new [freeCodeCamp](https://learn.freecodecamp.org/) environment
+- ✔️ 
