@@ -266,5 +266,5 @@ Today I have completed below things:
 - ✔️ Trying to make some good skills image for my portfolio page.
 
 ## R1D45 - May 31, 2018 ✅ #100DaysOfCode
-- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/man-climbing_1f9d7-200d-2642-fe0f.png" width="20%" height="20%" alt="getting started"> Getting started new [freeCodeCamp](https://learn.freecodecamp.org/) environment
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/man-climbing_1f9d7-200d-2642-fe0f.png" width="20px" height="20px" alt="getting started"> Getting started new [freeCodeCamp](https://learn.freecodecamp.org/) environment
 - ✔️ 
