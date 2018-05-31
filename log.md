@@ -247,7 +247,7 @@ Today I have completed below things:
 
 ## R1D42 - May 28, 2018 ✅ #100DaysOfCode 
 - <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started">️ Ongoing fourth section from [Linux (Ubuntu) CLI course](https://codio.com/home/courses/55e4727d20efa43e63fb99ab/modules/55e01fdc80f8e32518cc99da?tab=units)
-- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started">️ Ongoing Week-2 on [SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="getting started"> Ongoing Week-2 on [SD4x: Programming for Web with JavaScript course from edx.org](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 - ✔️ JavaScript DOM
 - ✔️ Learned about JavaScript global `localStorage`
 - ✔️ Learned about JSON and how to parse data by using JSON.
@@ -267,4 +267,20 @@ Today I have completed below things:
 
 ## R1D45 - May 31, 2018 ✅ #100DaysOfCode
 - <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Getting started new [freeCodeCamp](https://learn.freecodecamp.org/) environment
-- ✔️ 
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading"> Read some medium.com blog posts
+- ✔ Added some resource on my [Front-End-Dev-Repo](https://github.com/jamal-pb95/front-end-learning-path-and-resources-2018)
+- ✔ Completed Codecademy: [Learn Git](https://www.codecademy.com/courses/learn-git/) Course.
+
+
+
+
+
+
+<!-- Some emoji collection -->
+<!-- 
+  1. Reading: <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading">
+
+  2. Started: <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started">
+
+  3. Running: <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing">
+ -->
