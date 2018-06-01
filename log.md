@@ -267,12 +267,15 @@ Today I have completed below things:
 
 ## R1D45 - May 31, 2018 ✅ #100DaysOfCode
 - <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Getting started new [freeCodeCamp](https://learn.freecodecamp.org/) environment
-- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading"> Read some medium.com blog posts
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading"> Read some [medium.com](https://medium.freecodecamp.com) blog posts
 - ✔ Added some resource on my [Front-End-Dev-Repo](https://github.com/jamal-pb95/front-end-learning-path-and-resources-2018)
 - ✔ Completed Codecademy: [Learn Git](https://www.codecademy.com/courses/learn-git/) Course.
 - <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> Changed Skills section of to my [Protfolio Website](https://jamal-pb95.github.io/)
 
-
+## R1D46 - June 01, 2018 ✅ #100DaysOfCode
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Started learning React from [this tutorial](https://www.youtube.com/watch?v=UtIOMUQ7nWM&list=PL6cactdCCnTI470F_J2w0EmTjhri6LuXY)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading"> Read some [medium.freecodecamp.com](https://medium.freecodecamp.com) blog posts
+- ✔ Changed my [portfolio](https://jamal-pb95.github.io/) profile card and make it more animated
 
 
 
