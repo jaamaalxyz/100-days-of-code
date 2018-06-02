@@ -278,6 +278,12 @@ Today I have completed below things:
 - ✔ Changed my [portfolio](https://jamal-pb95.github.io/) profile card and make it more animated
 
 
+## R1D47 - June 02, 2018 ✅ #100DaysOfCode
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> Ongoing Learning React from [this tutorial](https://www.youtube.com/watch?v=UtIOMUQ7nWM&list=PL6cactdCCnTI470F_J2w0EmTjhri6LuXY)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading"> Read some [medium.freecodecamp.com](https://medium.freecodecamp.com) blog posts
+- ✔ Made an [Awesome Mobile First Responsive Photography Blog Template](https://codepen.io/jamal-pb95/full/xzwYEW/) inspired by [Traversy Media's tutorials](https://www.youtube.com/watch?v=XsEnj-1hG2o)
+
+
 
 
 <!-- Some emoji collection -->
