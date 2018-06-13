@@ -284,6 +284,13 @@ Today I have completed below things:
 - ✔ Made an [Awesome Mobile First Responsive Photography Blog Template](https://codepen.io/jamal-pb95/full/xzwYEW/) inspired by [Traversy Media's tutorials](https://www.youtube.com/watch?v=XsEnj-1hG2o)
 
 
+## R1D48 - June 03, 2018 ✅ #100DaysOfCode
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing"> Ongoing Learning React from [this tutorial](https://www.youtube.com/watch?v=UtIOMUQ7nWM&list=PL6cactdCCnTI470F_J2w0EmTjhri6LuXY)
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading"> Read some [medium.freecodecamp.com](https://medium.freecodecamp.com) blog posts
+- ✔ finally updated and published FCC Project-1: [Build a Tribute Page](https://codepen.io/jamal-pb95/full/jmvvpz/)
+- ✔ finally updated and published FCC Project-2: [Build a  Page Survey Form](https://codepen.io/jamal-pb95/full/RVywLR/)
+
+
 
 
 <!-- Some emoji collection -->
