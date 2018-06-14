@@ -295,6 +295,8 @@ Today I have completed below things:
 - <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading"> Read some [medium.freecodecamp.com](https://medium.freecodecamp.com) blog posts
 - ✔ finally updated and published FCC Project-3: [Build a Product Landing Page](https://codepen.io/jamal-pb95/full/qmeYZw/)
 - ✔ finally updated and published FCC Project-4: [Build a  Technical Documentation Page](https://codepen.io/jamal-pb95/full/dRwXbK/)
+- Hurra! <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Finally <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/graduation-cap.png" width="20px" height="20px" alt="graduate"> claim [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" [certification](https://www.freecodecamp.org/certification/jamal-pb95/responsive-web-design).
+
 
 
 
@@ -306,4 +308,6 @@ Today I have completed below things:
   2. Started: <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started">
 
   3. Running: <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/twitter/139/hourglass_231b.png" width="20px" height="20px" alt="ongoing">
+
+  4. Graduate or Earn Certicate: <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/graduation-cap.png" width="20px" height="20px" alt="graduate">
  -->
