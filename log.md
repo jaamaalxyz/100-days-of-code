@@ -298,6 +298,12 @@ Today I have completed below things:
 - Hurra! <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Finally <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/graduation-cap.png" width="20px" height="20px" alt="graduate"> claim [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" [certification](https://www.freecodecamp.org/certification/jamal-pb95/responsive-web-design).
 
 
+## R1D50 - June 05, 2018 ✅ #100DaysOfCode
+Alhamdulillah! Today I have completed 50 days. that means mission is 50% gone, and yes last 50 days I learnt a lot more than ever before. this challenge is extremly useful for any kind of people. who are thinking to do something but can't start or not making progress. I will defenatly suggest them to start [#100DaysOfCode](http://www.100daysofcode.com/). Today I have not done any major work but I have coded almost 3 hours. mostly I rewrite all my previous buggy stuff and make all the code more clean and clear.<br />
+
+Start leave for June 06, 2018 to June 25, 2018 because of Ramadan & Eid vacation. this time I am not spending all time for vacation mood. I will try to break the hard part of JavaScript and also start watching React tutorial from varius youtube channel. that's I have already choosen. but not count the challenge day because so many days I will be out of Internet coverage. Thanks [@Ka11away](https://twitter.com/ka11away), also big thanks [@ossia](https://twitter.com/ossia) and my mentor [Ferdous Al Quraeshi](https://www.facebook.com/FAQuraeshi).
+
+
 
 
 
