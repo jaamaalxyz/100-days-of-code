@@ -291,6 +291,12 @@ Today I have completed below things:
 - ✔ finally updated and published FCC Project-2: [Build a  Page Survey Form](https://codepen.io/jamal-pb95/full/RVywLR/)
 
 
+## R1D49 - June 04, 2018 ✅ #100DaysOfCode
+- <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/open-book_1f4d6.png" width="20px" height="20px" alt="reading"> Read some [medium.freecodecamp.com](https://medium.freecodecamp.com) blog posts
+- ✔ finally updated and published FCC Project-3: [Build a Product Landing Page](https://codepen.io/jamal-pb95/full/qmeYZw/)
+
+
+
 
 
 <!-- Some emoji collection -->
