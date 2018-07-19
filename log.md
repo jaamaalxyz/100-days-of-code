@@ -296,6 +296,7 @@ Today I have completed below things:
 - ✔ finally updated and published FCC Project-3: [Build a Product Landing Page](https://codepen.io/jamal-pb95/full/qmeYZw/)
 - ✔ finally updated and published FCC Project-4: [Build a  Technical Documentation Page](https://codepen.io/jamal-pb95/full/dRwXbK/)
 - Hurra! <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Finally <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/graduation-cap.png" width="20px" height="20px" alt="graduate"> claim [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" [certification](https://www.freecodecamp.org/certification/jamal-pb95/responsive-web-design).
+<img src="https://jamal-pb95.github.io/assets/images/cert/responsive-cert.png" width="100%" height="100%" alt="RWDC">
 
 
 ## R1D50 - June 05, 2018 ✅ #100DaysOfCode
