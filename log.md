@@ -308,6 +308,8 @@ Start leave for June 06, 2018 to June 25, 2018 because of Ramadan & Eid vacation
 - Alhamdulillah! <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/120/google/119/party-popper_1f389.png" width="20px" height="20px" alt="getting started"> Finally <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/graduation-cap.png" width="20px" height="20px" alt="graduate"> claim [freeCodeCamp](https://www.freecodecamp.org/) "JavaScript Data Structures & Algorithms" [certification](https://www.freecodecamp.org/certification/jamal-pb95/javascript-algorithms-and-data-structures).
 <img src="https://jamal-pb95.github.io/assets/images/cert/js-ds-and-algo-cert.png" width="100%" height="100%" alt="JS-DS-Algo">
 
+## R1D75 - July 20, 2018 ✅ #100DaysOfCode
+Learning React from [Codecademy: ReactJS Part - I](https://www.codecademy.com/learn/react-101)
 
 
 
